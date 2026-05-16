@@ -1,17 +1,17 @@
 # portfolioHUB
 
-Este repositório contém meu primeiro projeto de portfólio utilizando HTML, CSS e GitHub.
+This repository contains my first portfolio project using HTML, CSS, and GitHub.
 
-## Sobre
+## About
 
-O projeto consiste em um site simples com o objetivo de praticar desenvolvimento web e versionamento com Git.
+This project is a simple website created to practice web development and learn how to use Git for version control.
 
-## Tecnologias utilizadas
+## Technologies
 
 - HTML
 - CSS
 - Git / GitHub
 
-## Objetivo
+## Objective
 
-Aprender a usar GitHub e começar a construir um portfólio profissional.
+My goal is to learn how to use GitHub and start building a professional portfolio.

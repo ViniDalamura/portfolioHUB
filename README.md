@@ -1,19 +1,20 @@
-<section id="about">
-  <h2> About Me</h2>
-  <p>
-    Software Engineering student at CEUB, focused on software development and seeking international opportunities.
-    Fluent in English with academic experience in both Brazil and abroad. Highly organized, disciplined, and a fast learner.
-  </p>
+# PortfolioHUB
 
-  <div style="margin-top: 15px; display: flex; gap: 10px;">
-    
-    <a href="https://github.com/ViniDalamura/portfolioHUB" target="_blank" style="padding: 10px 20px; background-color: #24292e; color: white; border-radius: 5px; text-decoration: none; font-family: Arial, sans-serif; font-weight: bold; display: inline-block;">
-      View Code on GitHub
-    </a>
+Personal portfolio website developed as part of the Analysis and Systems Development program at CEUB. 
 
-    <a href="https://www.linkedin.com/in/vinicius-vinny-dalamura-831577416/" target="_blank" style="padding: 10px 20px; background-color: #0077b5; color: white; border-radius: 5px; text-decoration: none; font-family: Arial, sans-serif; font-weight: bold; display: inline-block;">
-      Connect on LinkedIn
-    </a>
+The objective of this project is to present academic background, technical skills, and professional links for software development opportunities.
 
-  </div>
-</section>
+---
+
+## Project Links
+
+* **Live Website:** https://ViniDalamura.github.io/portfolioHUB
+* **LinkedIn Profile:** https://www.linkedin.com/in/vinicius-vinny-dalamura-831577416/
+
+---
+
+## Technologies
+
+* HTML5
+* CSS3
+* GitHub Pages
